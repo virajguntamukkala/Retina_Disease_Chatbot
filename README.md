@@ -6,4 +6,5 @@ The World Health Organization's 2019 World Report on Vision estimates that ther
 Project that combines Computer Vision (CV) and Natural Language Processing (NLP) principles
 
 CV - Classify retinal dieseases from retinal fundus images using CNN
-NPL - Classify retinal dieseases based on symptoms, family history, etc. using a question awnsering model  
+
+NLP - Classify retinal dieseases based on symptoms, family history, etc. using a question awnsering model  
